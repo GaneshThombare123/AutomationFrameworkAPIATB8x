@@ -1,10 +1,13 @@
 package com.testingacademy.asserts;
 
+import com.beust.jcommander.StringKey;
+import com.testingacademy.modules.BookingResponse;
 import io.restassured.response.Response;
 
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.testng.Assert.assertEquals;
 
-public class AssertActions {
+public class AssertActions<SELF> {
 
     // Common Assertions - which can be Used
 
@@ -22,7 +25,14 @@ public class AssertActions {
 
     }
 
+public void verifyStringKey(String KeyExpect, String KeyActual){
+          //AssertJ
 
+    assertThat(KeyExpect).isNotNull();
+    assertThat(KeyExpect).isNotNull().isNotBlank();
+    assertThat(KeyActual).isEqualTo(KeyActual);
+
+}
 
 
 

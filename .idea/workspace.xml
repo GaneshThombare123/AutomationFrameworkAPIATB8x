@@ -4,38 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f64d121-8c1f-468d-81c9-7534f6aca001" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Test/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0807af67-fcb2-4478-a7da-d0c4121be8d9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/19e602a4-aabc-44ab-b06e-a341d509786a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/220aa910-1acb-4cce-85dd-ad9e547a84fe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/302934d0-feca-4789-9767-d3472edce56b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3e072472-ab23-4169-b066-33b1e4ae85ba-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4526a31d-80a8-4f47-8587-5c0971c5a838-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4e303599-1a09-4271-aeab-081fddadd969-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4f6a3318-7264-458a-b70f-2e2af8eefd2e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5079a1fb-cba7-4b50-9928-d91fda46af73-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/678b8bdb-b95f-45cf-a6fb-0f1bbddffc23-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6ad319d7-09e5-4809-86e7-6d153ea7a0a3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6bb2221b-f3d0-4078-8ff3-3eb173d02f32-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6c6f21ad-10c5-471c-8dc1-6bc8a646f568-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9404a0a9-efdc-45fb-bbe7-8ceecffef663-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a2dd9511-6c7d-48b1-a089-64040dfab683-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a6b0b51e-c050-4e64-aca6-c7f78cc55d05-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bb513531-e396-48df-aa5a-1b37fb79b01f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d2e33c4c-023d-4375-8e6b-d8398364d3b8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/da62dc4c-544a-4803-891d-97d63ac5a54d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/db426f90-fd35-4346-81c7-216854beeac3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dd3a3499-0910-4e08-9db4-cebcc89c1b94-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e4e11646-e1b3-4895-9ac4-7a8f3a0b989e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fdbc2521-87ee-4078-8d30-b7377a6098aa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/BookingResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/crud/testVerifyCreateBookingPOST01.java" afterDir="false" />
+    <list default="true" id="5f64d121-8c1f-468d-81c9-7534f6aca001" name="Changes" comment="Test 22">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/sample/TestIntegrationFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/asserts/AssertActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/asserts/AssertActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/crud/TestIntegrationFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/crud/TestIntegrationFlow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +71,11 @@
       <recent name="C:\Users\DELL\IdeaProjects\AutomationFrameworkAPIATB8x\src\main\java\com\testingacademy\pojos" />
       <recent name="C:\Users\DELL\IdeaProjects\AutomationFrameworkAPIATB8x" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testingacademy.test.integration.sample" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.testVerifyCreateBookingPOST01">
+  <component name="RunManager">
     <configuration name="Hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hellow" />
       <module name="AutomationFrameworkAPIATB8x" />
@@ -186,11 +164,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738470636005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test 22">
+      <option name="closed" value="true" />
+      <created>1738486828553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738486828553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Test 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 22" />
   </component>
 </project>

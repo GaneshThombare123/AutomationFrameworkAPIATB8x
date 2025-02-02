@@ -39,22 +39,30 @@ public class PayloadManager<BookingResponse> {
     }
 
 
-public BookingResponse bookingResponsJava(String responseString){
+public com.testingacademy.modules.BookingResponse bookingResponsJava(String responseString){
         gson = new Gson();
     Class<? extends BookingResponse> BookingResponse = null;
     BookingResponse bookingResponse = gson.fromJson(responseString,BookingResponse);
-        return bookingResponse;
+        return (com.testingacademy.modules.BookingResponse) bookingResponse;
 
 
         //  public String createPayloadBookingFromExcel(){} - data will fetch from Excel/ CSV files
+
+    String getResponse;
+    String response1 = getResponse;
+    String response = getResponse;{
+Booking booking = gson.fromJson(getResponse, Booking.class);
+        com.testingacademy.modules.BookingResponse Booking = null;
+        return Booking;
+    }
 
 
 }
 
 
-
-
-
+    public Booking getResponsFromJSON(String string) {
+        return null;
+    }
 }
 
 
