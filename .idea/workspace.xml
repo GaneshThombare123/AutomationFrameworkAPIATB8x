@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f64d121-8c1f-468d-81c9-7534f6aca001" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/endpoints/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pojos/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pojos/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pojos/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/asserts/AssertActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/listeners/RetryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/crud/TestIntegrationFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/sample/TestIntegrationSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/utils/CommonToAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-prod.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.qa-env.xml" afterDir="false" />
+    <list default="true" id="5f64d121-8c1f-468d-81c9-7534f6aca001" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/sample/TestIntegrationSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/test/integration/sample/TestIntegrationSample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +40,9 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng-prod.xml.executor": "Run",
+    "TestNG.C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng.qa-env.xml.executor": "Run",
+    "TestNG.TestIntegrationSample.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/src/main/java/com/testingacademy/pojos"
@@ -74,7 +54,7 @@
       <recent name="C:\Users\DELL\IdeaProjects\AutomationFrameworkAPIATB8x" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng.qa-env.xml">
     <configuration name="Hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hellow" />
       <module name="AutomationFrameworkAPIATB8x" />
@@ -82,8 +62,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng-prod.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFrameworkAPIATB8x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-prod.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng.qa-env.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFrameworkAPIATB8x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.qa-env.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIntegrationSample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFrameworkAPIATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.test.integration.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.test.integration.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.test.integration.sample.TestIntegrationSample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng.qa-env.xml" />
+        <item itemvalue="TestNG.C:/Users/DELL/IdeaProjects/AutomationFrameworkAPIATB8x/testng-prod.xml" />
+        <item itemvalue="TestNG.TestIntegrationSample" />
         <item itemvalue="Application.Hellow" />
       </list>
     </recent_temporary>
@@ -97,6 +117,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738463192085</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <option name="closed" value="true" />
+      <created>1738470636005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738470636005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>

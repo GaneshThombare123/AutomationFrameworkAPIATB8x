@@ -11,25 +11,25 @@ public class TestIntegrationSample {
     // Update the booking
     // Delete the booking
 
-    @Test(groups = "integration", priority = 1)
+    @Test(groups = "qa", priority = 1)
     @Owner("Pramod")
     @Description("TC#INT1 - Step 1. Verify that the Booking can be Created")
     public void testCreateBooking(){
         Assert.assertTrue(true);
     }
-    @Test(groups = "integration", priority = 2)
+    @Test(groups = "qa", priority = 2)
     @Owner("Pramod")
     @Description("TC#INT1 - Step 1. Verify that the Booking By ID")
     public void testVerifyBookingID(){
         Assert.assertTrue(true);
     }
-    @Test(groups = "integration", priority = 3)
+    @Test(groups = "qa", priority = 3)
     @Owner("Pramod")
     @Description("TC#INT1 - Step 1. Verify Updated Booking by ID")
     public void testupdateBookingID(){
         Assert.assertTrue(true);
     }
-    @Test(groups = "integration", priority = 4)
+    @Test(groups = "qa", priority = 4)
     @Owner("Pramod")
     @Description("TC#INT1 - Step 1. Delete the Booking by ID")
     public void testDeleteBookingID(){
